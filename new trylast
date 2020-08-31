@@ -2,7 +2,7 @@
 #EXTINF:-1 , BONG TV
 https://edge4.bioscopelive.com/hls/anonymous/Gy8q_uSNus8nTi0dTSWAGg/1598819114/bongo_movies.m3u8
 #EXTINF:-1 , HBO HD
-http://dpasdl08.tth.cl:8745/eros/hbohd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIwIDc6Mjc6MzkgUE0maGFzaF92YWx1ZT1ncnRsRUZMUVJ5UzRwQ29Wemt5MHJRPT0mdmFsaWRtaW51dGVzPTI=
+http://dpasdl08.tth.cl:8745/eros/hbohd/playlist.m3u8?
 #EXTINF:-1 , Sky Sports Cricket
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIwIDc6MzI6NDcgUE0maGFzaF92YWx1ZT0xd0NTY1ZJNmhTS3EybUpjdGp6UFpBPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 , Sky Sports Cricket SD
